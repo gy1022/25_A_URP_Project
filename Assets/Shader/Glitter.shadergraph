@@ -852,8 +852,8 @@
     "m_ObjectId": "0f57d377f30e45ec8e75302cc42135a4",
     "m_Title": "Fresnel Nodes",
     "m_Position": {
-        "x": -1246.999755859375,
-        "y": 660.0004272460938
+        "x": -1247.0,
+        "y": 660.0
     }
 }
 
@@ -1771,8 +1771,8 @@
     "m_ObjectId": "45001668527f408aa794ec28aff5fa12",
     "m_Title": "Get View Direction",
     "m_Position": {
-        "x": -1998.9996337890625,
-        "y": 519.0004272460938
+        "x": -1999.0001220703125,
+        "y": 519.0
     }
 }
 
@@ -2767,7 +2767,7 @@
     "m_Title": "Get Gliter Faching Directions",
     "m_Position": {
         "x": -3069.0,
-        "y": -377.0001220703125
+        "y": -377.0
     }
 }
 
@@ -4567,8 +4567,8 @@
     "m_ObjectId": "f8e6c90b8a6748e68ed9368100a61f4e",
     "m_Title": "Combining Color",
     "m_Position": {
-        "x": -1229.0001220703125,
-        "y": 260.0
+        "x": -1229.0,
+        "y": 260.00006103515627
     }
 }
 
